@@ -8,6 +8,7 @@ package com.will.util.core;
  * @Email willWu618@gmail.com
  * @Date 2019/8/24 18:12
  */
+@SuppressWarnings("unused")
 public class AssertUtil {
     /**
      * t不能为空

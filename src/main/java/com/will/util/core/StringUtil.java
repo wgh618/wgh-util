@@ -8,5 +8,6 @@ package com.will.util.core;
  * @Email willWu618@gmail.com
  * @Date 2019/8/24 17:51
  */
+@SuppressWarnings("unused")
 public class StringUtil {
 }

@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
  * @Email willWu618@gmail.com
  * @Date 2019/8/24 17:53
  */
+@SuppressWarnings("unused")
 public class StreamUtil {
 
     /**
